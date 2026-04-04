@@ -1,1 +1,0 @@
-LICENSE.commons-logging.txt

@@ -1,1 +1,0 @@
-../../ksqldb/notices/NOTICE-log4j-1.2.17.txt

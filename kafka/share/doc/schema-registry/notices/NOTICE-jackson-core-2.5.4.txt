@@ -1,1 +1,0 @@
-../../rest-utils/licenses/NOTICE.jackson-core.txt

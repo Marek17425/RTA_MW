@@ -1,1 +1,0 @@
-../../rest-utils/licenses/COPYRIGHT.hibernate.txt
