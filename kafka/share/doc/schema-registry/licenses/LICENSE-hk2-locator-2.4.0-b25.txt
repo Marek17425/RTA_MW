@@ -1,0 +1,1 @@
+../../rest-utils/licenses/LICENSE.cddl+gpl2.html

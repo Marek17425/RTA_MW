@@ -1,0 +1,1 @@
+../../ksqldb/licenses/LICENSE-jackson-mapper-asl-1.9.13.txt
